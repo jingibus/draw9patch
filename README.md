@@ -20,7 +20,7 @@ pixel boundary. Filling in this magic pixel line for an image with
 dimensions in the hundreds of pixels can lead to self harm.
 
 Apart from these easy to fix flaws, it is a fine tool. With these flaws, it is
-a signifant irritation in my workflow.
+a significant irritation in my workflow.
 
 What This draw9patch Does Differently
 -------------------------------------
